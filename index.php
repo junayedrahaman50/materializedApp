@@ -312,6 +312,7 @@
   <!-- Footer -->
 <footer class="section grey darken-4 white-text center">
   <p class="flow-text sans">Swiggly &copy; 2022</p>
+  <p style="font-size: 16px;" class="sans">Made with <i class="fa fa-heart red-text"></i> by Junayed Rahaman</p>
 </footer>
 
 
