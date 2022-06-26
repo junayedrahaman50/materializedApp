@@ -48,19 +48,19 @@
   </div>
   <ul class="side-nav" id="mobile-nav">
     <li>
-      <a style="font-family:source-sans-normal;" href="#home">Home</a>
+      <a style="font-family:source-sans-normal;font-size:16px;" href="#home">Home</a>
     </li>
     <li>
-      <a style="font-family:source-sans-normal;" href="#search">Search</a>
+      <a style="font-family:source-sans-normal;font-size:16px;" href="#search">Search</a>
     </li>
     <li>
-      <a style="font-family:source-sans-normal;" href="#popular">Popular Places</a>
+      <a style="font-family:source-sans-normal;font-size:16px;" href="#popular">Popular Places</a>
     </li>
     <li>
-      <a style="font-family:source-sans-normal;" href="#gallery">Gallery</a>
+      <a style="font-family:source-sans-normal;font-size:16px;" href="#gallery">Gallery</a>
     </li>
     <li>
-      <a style="font-family:source-sans-normal;" href="#contact">Contact</a>
+      <a style="font-family:source-sans-normal;font-size:16px;" href="#contact">Contact</a>
     </li>
   </ul>
 
